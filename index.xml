@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data science portfolio on Home</title>
-    <link>https://datascience.github.io/Marco_portfolio/</link>
+    <link>https://marcogarcia31.github.io/Portfolio/</link>
     <description>Recent content in Data science portfolio on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://datascience.github.io/Marco_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jul 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://marcogarcia31.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a nutritional app</title>
-      <link>https://datascience.github.io/Marco_portfolio/post/project2/</link>
+      <link>https://marcogarcia31.github.io/Portfolio/post/project2/</link>
       <pubDate>Sun, 26 Jul 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://datascience.github.io/Marco_portfolio/post/project2/</guid>
+      <guid>https://marcogarcia31.github.io/Portfolio/post/project2/</guid>
       <description>Project overview   This project consists of evaluating the feasibility of an app that would return the nutriscore label from given features of a food product
   The overall performance of the trained estimators is significantly positive and confirms the feasibility of such an app  Workflow   cleaned the product-related data from Open Food Facts database
   selected relevant features
@@ -21,10 +21,10 @@
     
     <item>
       <title>BI project : educational data analysis</title>
-      <link>https://datascience.github.io/Marco_portfolio/post/project1/</link>
+      <link>https://marcogarcia31.github.io/Portfolio/post/project1/</link>
       <pubDate>Tue, 09 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://datascience.github.io/Marco_portfolio/post/project1/</guid>
+      <guid>https://marcogarcia31.github.io/Portfolio/post/project1/</guid>
       <description>Project overview This project compares countries performance accross several educational-related indicators and produces a ranking with a scoring tool. It may be useful for the method it deploys and to understand how data visualization may be helpful for any BI project.Workflow   worked with educational-related data from EdStats World Bank database
   identified key indicators
   cleaned the data
@@ -33,10 +33,10 @@
     
     <item>
       <title>Contact</title>
-      <link>https://datascience.github.io/Marco_portfolio/contact/</link>
+      <link>https://marcogarcia31.github.io/Portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://datascience.github.io/Marco_portfolio/contact/</guid>
+      <guid>https://marcogarcia31.github.io/Portfolio/contact/</guid>
       <description>Follow me on these social media platforms.
    Platform URL     YouTube: https://www.youtube.com/c/kenjee1?sub_confirmation=1   Website: https://www.playingnumbers.com, https://kennethjee.com/   Twitter: https://twitter.com/KenJee_DS   LinkedIn: https://www.linkedin.com/in/kenjee/   Medium: https://medium.com/@kenneth.b.jee   GitHub: https://github.com/PlayingNumbers    </description>
     </item>
