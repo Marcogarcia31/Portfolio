@@ -20,6 +20,17 @@
     </item>
     
     <item>
+      <title>Building sustainable cities</title>
+      <link>https://marcogarcia31.github.io/Portfolio/post/project3/</link>
+      <pubDate>Sun, 26 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://marcogarcia31.github.io/Portfolio/post/project3/</guid>
+      <description>Project overview   this project consists of estimating the model that would predict both CO2 emissions and the energy consumption of non-residential buildings in the city of Seattle
+  thus the project addresses regression problems with tabular data
+  the overall performance of the fitted model is robust and the few features it needs as input allow a clear interpretation of the defined model   Workflow summary   cleaned the data</description>
+    </item>
+    
+    <item>
       <title>BI project : educational data analysis</title>
       <link>https://marcogarcia31.github.io/Portfolio/post/project1/</link>
       <pubDate>Tue, 09 Jun 2020 10:58:08 -0400</pubDate>
