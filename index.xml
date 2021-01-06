@@ -27,7 +27,19 @@
       <guid>https://marcogarcia31.github.io/Portfolio/post/project3/</guid>
       <description>Project overview   this project consists of estimating the model that would predict both CO2 emissions and the energy consumption of non-residential buildings in the city of Seattle
   thus the project addresses regression problems with tabular data
-  the overall performance of the fitted model is robust and the few features it needs as input allow a clear interpretation of the defined model   Workflow summary   cleaned the data</description>
+  the overall performance of the fitted model is robust and the few features it needs as input allow a clear interpretation of the defined model   Workflow   cleaned the data</description>
+    </item>
+    
+    <item>
+      <title>Clients segmentation</title>
+      <link>https://marcogarcia31.github.io/Portfolio/post/project4/</link>
+      <pubDate>Sun, 26 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://marcogarcia31.github.io/Portfolio/post/project4/</guid>
+      <description>Project overview   this project consists of estimating a segmentation model that would separate the e-consumers of a platform into coherent and business-wise interpretable groups
+  thus the project consists of a clustering task with tabular data
+  the defined clusters are quite robust, well balanced and meaningful in a business-sense   Workflow   aggregated the tables of the database
+  cleaned the data</description>
     </item>
     
     <item>
