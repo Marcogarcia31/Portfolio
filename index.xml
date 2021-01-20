@@ -41,6 +41,18 @@
     </item>
     
     <item>
+      <title>Classifying products</title>
+      <link>https://marcogarcia31.github.io/Portfolio/post/project6/</link>
+      <pubDate>Sun, 26 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://marcogarcia31.github.io/Portfolio/post/project6/</guid>
+      <description>Project overview   The goal of this project is to evaluate the feasibility of an automatic classification that would predict product categories upon images and/or text
+  We will therefore implement Computer Vision and Natural Language Processing techniques
+  Since the data is labeled we will consider it a supervised multi-label classification task
+  the overall performance of the fitted model is strong and thus confirms the feasibility of the automatic classification   Workflow summary   explored the target variables</description>
+    </item>
+    
+    <item>
       <title>Clients segmentation</title>
       <link>https://marcogarcia31.github.io/Portfolio/post/project4/</link>
       <pubDate>Sun, 26 Jul 2020 10:58:08 -0400</pubDate>
